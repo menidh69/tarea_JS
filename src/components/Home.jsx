@@ -26,6 +26,9 @@ const Home = ()=>{
                     <Link to="/ejercicio5">Ejercicio5</Link>
                 </li>
                 </ul>
+
+                <h4>Repositorio en Github:</h4>
+                <a href="https://github.com/menidh69/tarea_JS">https://github.com/menidh69/tarea_JS</a>
         </div>
     )
 }
